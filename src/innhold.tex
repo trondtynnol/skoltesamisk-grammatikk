@@ -1,0 +1,93 @@
+\documentclass[b5paper, 11pt, twoside, showtrims]{memoir}
+
+% Memoir provides extensive customization
+\usepackage{xurl}
+
+% for å kunna skrive ð og guillemets, krev LuaLaTeX (eller XeLaTeX):
+\usepackage{fontspec}
+
+\usepackage[norsk]{babel} % for rett orddeling osb.
+
+\usepackage{microtype} % færre orddelingar, penare layout
+
+
+\usepackage{graphicx}
+\graphicspath{ % sjå etter bilete i desse mappene, prioriter øvste mappe før midste, før nedste
+	{img/}
+}
+\usepackage{wrapfig} % wrap tekst rundt bilete
+
+\extrafloats{150} % Tillat fleire bilete (eg. fleire figurar)
+
+\usepackage{subcaption} % For subfigures
+\captionsetup[subfigure]{labelformat=empty}
+
+% Bilettekstar
+\usepackage[labelformat=empty]{caption}
+\captiontitlefont{\small}
+
+
+
+% Page layout
+\setstocksize{246mm}{176mm}
+\setpagecc{240mm}{170mm}{*}
+\trimLmarks % kuttemerkje som ikkje går inn i sida
+\settrims{3mm}{3mm}
+\setlrmarginsandblock{1in}{0.75in}{*}
+\setulmarginsandblock{0.75in}{1in}{*}
+\setheadfoot{14pt}{28pt}
+\setheaderspaces{*}{2\onelineskip}{*}
+\checkandfixthelayout
+
+
+% Kjeldeliste:
+
+% fjern tal før kjeldene
+\makeatletter
+\def\@bibitem#1{\item[]%
+	\if@filesw\immediate\write\@auxout{\string \bibcite {#1}{\the\value{\@listctr }}}\fi\ignorespaces}
+\makeatletter
+
+% Chapter style
+\chapterstyle{bianchi}
+
+% Custom chapter style
+\makechapterstyle{custom}{%
+	\renewcommand{\chaptername}{Del}
+	\renewcommand{\chapnamefont}{\normalfont\large\scshape}
+	\renewcommand{\chapnumfont}{\normalfont\Huge}
+	\renewcommand{\chaptitlefont}{\normalfont\Huge\bfseries}
+	\setlength{\beforechapskip}{0pt}
+	\setlength{\midchapskip}{20pt}
+	\setlength{\afterchapskip}{40pt}
+}
+
+\renewcommand{\chaptername}{Del}
+
+\begin{document}
+	\pagestyle{simple}
+	\frontmatter
+	\title{\textsc{En liten skoltesamisk grammatikk for norskspråklige}}
+	\newcommand{\subtitle}{Prøveversjon juni 2026}
+	\renewcommand{\maketitlehookb}{\centering\textsc{\subtitle}}
+	\author{Trond Tynnøl}
+	\date{}
+	\maketitle
+	
+	\newpage
+	
+		
+	\section{Forord}
+	
+	
+	
+	\renewcommand{\contentsname}{Innhold}
+	\tableofcontents*
+	
+	\mainmatter
+	\chapterstyle{custom}
+	
+	\include{kap1}
+	\include{reflist}
+	
+\end{document}
