@@ -6,23 +6,23 @@
 % for å kunna skrive ð og guillemets, krev LuaLaTeX (eller XeLaTeX):
 \usepackage{fontspec}
 
-\usepackage[norsk]{babel} % for rett orddeling osb.
+\usepackage[norsk]{babel} % for rett orddeling osv.
 
-\usepackage{microtype} % færre orddelingar, penare layout
+\usepackage{microtype} % færre orddelinger, penere layout
 
 
 \usepackage{graphicx}
-\graphicspath{ % sjå etter bilete i desse mappene, prioriter øvste mappe før midste, før nedste
+\graphicspath{ % se etter bilete i disse mappene, prioriter øverste mappe før midterste, før nederste
 	{img/}
 }
-\usepackage{wrapfig} % wrap tekst rundt bilete
+\usepackage{wrapfig} % wrap tekst rundt bilde
 
-\extrafloats{150} % Tillat fleire bilete (eg. fleire figurar)
+\extrafloats{150} % Tillat flere bilder (eg. flere figurer)
 
 \usepackage{subcaption} % For subfigures
 \captionsetup[subfigure]{labelformat=empty}
 
-% Bilettekstar
+% Bildetekster
 \usepackage[labelformat=empty]{caption}
 \captiontitlefont{\small}
 
@@ -40,9 +40,9 @@
 \checkandfixthelayout
 
 
-% Kjeldeliste:
+% Kildeliste:
 
-% fjern tal før kjeldene
+% fjern tall før kildene
 \makeatletter
 \def\@bibitem#1{\item[]%
 	\if@filesw\immediate\write\@auxout{\string \bibcite {#1}{\the\value{\@listctr }}}\fi\ignorespaces}
@@ -67,7 +67,7 @@
 \begin{document}
 	\pagestyle{simple}
 	\frontmatter
-	\title{\textsc{En liten skoltesamisk grammatikk for norskspråklige}}
+	\title{\textsc{Skoltesamisk grammatikk med øvingsoppgaver}}
 	\newcommand{\subtitle}{Prøveversjon juni 2026}
 	\renewcommand{\maketitlehookb}{\centering\textsc{\subtitle}}
 	\author{Trond Tynnøl}
@@ -87,7 +87,12 @@
 	\mainmatter
 	\chapterstyle{custom}
 	
-	\include{kap1}
+	\include{alfabet-og-uttale}
+	\include{ordklasser}
+	\include{setningslare}
+	\include{kasuser}
+	\include{boyingslare}
+	\include{tabeller}
 	\include{reflist}
 	
 \end{document}
