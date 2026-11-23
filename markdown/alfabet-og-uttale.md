@@ -14,6 +14,8 @@ Også diftonger kan være lange og korte, men dette markeres ikke i vanlig skrif
 
 #### Uttale av bokstavene
 
+Det skoltesamiske alfabetet bygger på prinsippet om at hvert fonem – det vil si hver lyd i språket – skal ha sin egen bokstav. Siden det finnes ganske mange ulike fonemer i skoltesamisk, blir det tilsvarende mange bokstaver.
+
 ##### Vokalene
 
 - a
@@ -81,9 +83,14 @@ Det skoltesamiske alfabetet inneholder 27 konsonanter. I tillegg er det to konso
 
 #### Mjukhetstegnet, skilletegnet og lengdetegnet
 
-I vanlig skoltesamisk rettskriving brukes to såkalte diakritiske tegn i tillegg til bokstavene. Det vanligste er mjukhetstegnet ʹ. Det står med noen få unntak alltid mellom en vokal eller diftong og en konsonant, og viser at både vokalen/diftongen og konsonanten har palatalisert, "mjuk" uttale. Mjukhetstegnet ligner på en oppadgående aksent. Eksempler: _sääʹnn_ 'ord',  _pueʹtted_ 'komme'
+I vanlig skoltesamisk rettskriving brukes to såkalte diakritiske tegn i tillegg til bokstavene. Det vanligste er mjukhetstegnet ʹ. Det står med noen få unntak alltid mellom en vokal eller diftong og en konsonant, og viser at både vokalen/diftongen og konsonanten har palatalisert, "mjuk" uttale. Mjukhetstegnet ligner på en oppadgående aksent. Eksempler: _sääʹnn_ 'ord',  _pueʹtted_ 'komme'.
 
-Det andre diakritiske tegnet er skilletegnet ʼ. Det plasseres mellom to konsonanter for å markere at de skal uttales separat, oftest med en veldig kort (såkalla overkort) vokal mellom seg. Skilletegnet ligner på et komma plassert i overkant av bokstavene og skal ha en tydelig bue. Eksempler: _mättʼted_ 'undervise', _kollʼjed_ 'høres', _käunnʼjed_ 'finnes'
+Det andre diakritiske tegnet er skilletegnet ʼ. Det plasseres mellom to konsonanter for å markere at de skal uttales separat, oftest med en veldig kort (såkalla overkort) vokal mellom seg. Skilletegnet ligner på et komma plassert i overkant av bokstavene og skal ha en tydelig bue. Eksempler: _mättʼted_ 'undervise', _kollʼjed_ 'høres', _käunnʼjed_ 'finnes'.
 
 Diftonglengde markeres ikke i vanlig skoltesamisk rettskriving sjøl om diftonger også kan være korte eller lange. I ordboksrettskrivinga brukes lengdetegnet ˈ for å markere at den foregående diftongen er kort dersom dette ikke kommer fram på annen måte. Lengdetegnet kan plasseres på to måter. Dersom den korte diftongen blir fulgt av to like konsonanter, plasseres lengdetegnet mellom disse to. Dette er vanligst. I andre tilfeller plasseres lengdetegnet rett etter diftongen. Lengdetegnet er en loddrett strek. Eksempler: _teädˈd_ 'vekt', _leâˈša_ 'men'.
 
+#### Annen tegnsetting
+
+I de fleste tilfeller er det (ennå) ikke bestemt egne tegnsettingsregler for skoltesamisk, og man følger dermed i praksis tegnsettingsreglene fra majoritetsspråkene (finsk og norsk).
+
+Bindestrek brukes for å vise ordskillet i sammensatte ord der man ellers måtte skrevet flere like konsonanter etter hverandre, for eksempel _oođâs-sääʹnn_ 'nyord', _baŋkk-kortt_ 'bankkort' eller _tuâjj-joukk_ 'arbeidsgruppe'. Det gjelder også lignende konsonanter, det vil si c–č, d–đ, g–ǧ–ǥ, k–ǩ, n–ŋ, s–š og z–ž, for eksempel _sõõus-šnåpp_ 'pelsball, hårball' eller _Maiddeǩ-kuõškk_ 'Melkefoss'. Dessuten gjelder det mellom n og j og mellom l og j, som i ordene _ǩeâll-jueʹlǧǧ_ 'klokketårn' og _jieʹnn-jeäʹnn_ 'mormor'.
