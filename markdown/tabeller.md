@@ -1,0 +1,3 @@
+## Stadievekslings- og vokalvekslingstabeller
+
+[Tilpass til det pedagogiske opplegget]

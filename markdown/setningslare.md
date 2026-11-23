@@ -1,0 +1,402 @@
+## Setningslære
+
+[Tenk gjennom overlapp med kasuslære]
+
+### Samsvarsbøying
+
+#### Subjekt og verbal
+
+#### Subjekt og predikativ
+
+#### Nomenfraser
+
+##### Demonstrativpronomen og substantiv
+
+##### Tallord og substantiv
+
+##### Demonstrativpronomen, tallord og substantiv
+
+##### Adjektiv i nomenfraser
+
+#### Pre- og postposisjoner og nomen
+
+Pre- og postposisjoner styrer kasuset på nomenet de hører sammen med. De aller fleste pre- og postposisjoner styrer genitiv, for eksempel:
+
+\pex<withparts> 
+\a<first> 
+\begingl %% Start glosses
+\gla Ståkkan lij pååʹrd âʹlnn. //
+\glb glass.\textsc{nominativ} være.\textsc{pres.ent.3p} bord.\textsc{ent.genitiv} på //
+\glft `Glasset er på bordet.'//
+\endgl
+
+\xe
+
+Noen få styrer i steden partitiv.
+
+### Relativsetninger
+
+### Nekting
+
+På norsk er nektingsordet «_ikke_» et adverb, det modifiserer setninga uten å bøyes sjøl. På skoltesamisk nekter man derimot ved å bruke et eget nektingsverb som skal samsvarsbøyes med subjektet. Etter nektingsverbet står hovedverbet i en egen nektingsform, som også kalles konnegativ. Se kapittelet Bøyingslære om hvordan denne dannes og nærmere om bøying av nektingsverbet.
+
+#### Presens
+
+I nektende setninger er det altså nektingsverbet som samsvarsbøyes, mens nektingsforma av hovedverbet er lik for de fleste personer.
+
+\pex<withparts> %% "main" example needs a tag
+\a<first> %% First part with a tag
+\begingl %% Start glosses
+\gla Mon jiõm poor huutt. //
+\glb jeg.\textsc{nominativ} \textsc{neg.ent.1p} spise.\textsc{konneg} grøt.\textsc{ent.akkusativ} //
+\glft `Jeg spiser ikke grøt.'//
+\endgl
+
+\a<second> %% Second part
+\begingl %% Start glosses
+\gla Ton jiõk poor huutt. //
+\glb du.\textsc{nominativ} \textsc{neg.ent.2p} spise.\textsc{konneg} grøt.\textsc{ent.akkusativ} //
+\glft `Du spiser ikke grøt.'//
+\endgl
+
+\a<third>
+\begingl %% Start glosses
+\gla Son ij poor huutt. //
+\glb hen.\textsc{nominativ} \textsc{neg.ent.3p} spise.\textsc{konneg} grøt.\textsc{ent.akkusativ} //
+\glft `Hen spiser ikke grøt.'//
+\endgl
+
+\a<fourth>
+\begingl %% Start glosses
+\gla Mij jeäʹp poor huutt. //
+\glb vi.\textsc{nominativ} \textsc{neg.flt.1p} spise.\textsc{konneg} grøt.\textsc{ent.akkusativ} //
+\glft `Vi spiser ikke grøt.'//
+\endgl
+
+\a<fifth>
+\begingl %% Start glosses
+\gla Tij jeäʹped poor huutt. //
+\glb dere.\textsc{nominativ} \textsc{neg.flt.2p} spise.\textsc{konneg} grøt.\textsc{ent.akkusativ} //
+\glft `Dere spiser ikke grøt.'//
+\endgl
+
+\a<sixth>
+\begingl %% Start glosses
+\gla Sij jie poor huutt. //
+\glb de.\textsc{nominativ} \textsc{neg.flt.3p} spise.\textsc{konneg} grøt.\textsc{ent.akkusativ} //
+\glft `De spiser ikke grøt.'//
+\endgl
+\xe
+
+I den såkalla fjerde personen (og i visse imperativformer, se nedenfor) brukes derimot en annen nektingsform, kalt konnegativ II.
+
+\pex<4th> 
+\begingl %% Start glosses
+\gla Jeät porru huutt. //
+\glb \textsc{neg.4p} spise.\textsc{konnegII} grøt.\textsc{ent.akkusativ} //
+\glft `Man spiser ikke grøt.'//
+\endgl
+
+\xe
+
+
+#### Preteritum
+
+Nektingsverbet har ingen egne former i preteritum. Preteritum av nektende setninger dannes derfor ved å bøye hovedverbet i en preteritum nektingsform. Denne er alltid identisk med perfektum partisippforma.
+
+\pex<withparts> %% "main" example needs a tag
+\a<first> %% First part with a tag
+\begingl %% Start glosses
+\gla Mon jiõm poorrâm huutt. //
+\glb jeg.\textsc{nominativ} \textsc{neg.ent.1p} spise.\textsc{konneg.prt} grøt.\textsc{ent.akkusativ} //
+\glft `Jeg spiste ikke grøt.'//
+\endgl
+
+\a<second> %% Second part
+\begingl %% Start glosses
+\gla Ton jiõk poorrâm huutt. //
+\glb du.\textsc{nominativ} \textsc{neg.ent.2p} spise.\textsc{konneg.prt} grøt.\textsc{ent.akkusativ} //
+\glft `Du spiste ikke grøt.'//
+\endgl
+
+\a<third>
+\begingl %% Start glosses
+\gla Son ij poorrâm huutt. //
+\glb hen.\textsc{nominativ} \textsc{neg.ent.3p} spise.\textsc{konneg.prt} grøt.\textsc{ent.akkusativ} //
+\glft `Hen spiste ikke grøt.'//
+\endgl
+
+\a<fourth>
+\begingl %% Start glosses
+\gla Mij jeäʹp poorrâm huutt. //
+\glb vi.\textsc{nominativ} \textsc{neg.flt.1p} spise.\textsc{konneg.prt} grøt.\textsc{ent.akkusativ} //
+\glft `Vi spiste ikke grøt.'//
+\endgl
+
+\a<fifth>
+\begingl %% Start glosses
+\gla Tij jeäʹped poorrâm huutt. //
+\glb dere.\textsc{nominativ} \textsc{neg.flt.2p} spise.\textsc{konneg.prt} grøt.\textsc{ent.akkusativ} //
+\glft `Dere spiste ikke grøt.'//
+\endgl
+
+\a<sixth>
+\begingl %% Start glosses
+\gla Sij jie poorrâm huutt. //
+\glb de.\textsc{nominativ} \textsc{neg.flt.3p} spise.\textsc{konneg.prt} grøt.\textsc{ent.akkusativ} //
+\glft `De spiste ikke grøt.'//
+\endgl
+
+\a<seventh>
+\begingl %% Start glosses
+\gla Jeät poorrâm huutt. //
+\glb \textsc{neg.4p} spise.\textsc{konneg.prt} grøt.\textsc{ent.akkusativ} //
+\glft `Man spiste ikke grøt.'//
+\endgl
+
+\xe
+
+#### Imperativ
+
+Nektingsverbet har egne imperativformer. Etter andre person entall bruker man vanlig nektingsform av hovedverbet, etter andre person flertall enten vanlig nektingsform eller konnegativ II, og etter alle andre former konnegativ II.
+
+\pex<withparts> %% "main" example needs a tag
+
+\a<second> %% Second part
+\begingl %% Start glosses
+\gla Jeäʹl poor huutt! //
+\glb \textsc{neg.imp.ent.2p} spise.\textsc{konnegII} grøt.\textsc{ent.akkusativ} //
+\glft `Ikke spis grøt! (til én person)'//
+\endgl
+
+\a<third>
+\begingl %% Start glosses
+\gla Jeälas porru huutt. //
+\glb \textsc{neg.imp.ent.3p} spise.\textsc{konnegII} grøt.\textsc{ent.akkusativ} //
+\glft `'//
+\endgl
+
+\a<fourth>
+\begingl %% Start glosses
+\gla Jeällap porru huutt. //
+\glb \textsc{neg.imp.flt.1p} spise.\textsc{konnegII} grøt.\textsc{ent.akkusativ} //
+\glft `La oss ikke spise grøt.'//
+\endgl
+
+\a<fifth>
+\begingl %% Start glosses
+\gla Jeäʹled poor huutt! //
+\glb \textsc{neg.imp.flt.2p} spise.\textsc{konneg} grøt.\textsc{ent.akkusativ} //
+\glft `Ikke spis grøt! (til flere personer)'//
+\endgl
+
+\a<fifthII>
+\begingl %% Start glosses
+\gla Jeäʹled porru huutt! //
+\glb \textsc{neg.imp.flt.2p} spise.\textsc{konnegII} grøt.\textsc{ent.akkusativ} //
+\glft `Ikke spis grøt! (til flere personer)'//
+\endgl
+
+\a<sixth>
+\begingl %% Start glosses
+\gla Jeällaz porru huutt. //
+\glb \textsc{neg.imp.flt.3p} spise.\textsc{konnegII} grøt.\textsc{ent.akkusativ} //
+\glft `'//
+\endgl
+
+\xe
+
+#### Kondisjonalis
+
+Nektingsverbet har ingen egne former i kondisjonalis. Kondisjonalis av nektende setninger dannes derfor ved å bøye hovedverbet i en kondisjonalis nektingsform.
+
+\pex<withparts> %% "main" example needs a tag
+\a<first> %% First part with a tag
+\begingl %% Start glosses
+\gla Mon jiõm poorče huutt. //
+\glb jeg.\textsc{nominativ} \textsc{neg.ent.1p} spise.\textsc{konneg.kond} grøt.\textsc{ent.akkusativ} //
+\glft `Jeg ville ikke spist grøt.'//
+\endgl
+
+\a<second> %% Second part
+\begingl %% Start glosses
+\gla Ton jiõk poorče huutt. //
+\glb du.\textsc{nominativ} \textsc{neg.ent.2p} spise.\textsc{konneg.kond} grøt.\textsc{ent.akkusativ} //
+\glft `Du ville ikke spist grøt.'//
+\endgl
+
+\a<third>
+\begingl %% Start glosses
+\gla Son ij poorče huutt. //
+\glb hen.\textsc{nominativ} \textsc{neg.ent.3p} spise.\textsc{konneg.kond} grøt.\textsc{ent.akkusativ} //
+\glft `Hen ville ikke spist grøt.'//
+\endgl
+
+\a<fourth>
+\begingl %% Start glosses
+\gla Mij jeäʹp poorče huutt. //
+\glb vi.\textsc{nominativ} \textsc{neg.flt.1p} spise.\textsc{konneg.kond} grøt.\textsc{ent.akkusativ} //
+\glft `Vi ville ikke spist grøt.'//
+\endgl
+
+\a<fifth>
+\begingl %% Start glosses
+\gla Tij jeäʹped poorče huutt. //
+\glb dere.\textsc{nominativ} \textsc{neg.flt.2p} spise.\textsc{konneg.kond} grøt.\textsc{ent.akkusativ} //
+\glft `Dere ville ikke spist grøt.'//
+\endgl
+
+\a<sixth>
+\begingl %% Start glosses
+\gla Sij jie poorče huutt. //
+\glb de.\textsc{nominativ} \textsc{neg.flt.3p} spise.\textsc{konneg.kond} grøt.\textsc{ent.akkusativ} //
+\glft `De ville ikke spist grøt.'//
+\endgl
+
+\a<seventh>
+\begingl %% Start glosses
+\gla Jeät poorče huutt. //
+\glb \textsc{neg.4p} spise.\textsc{konneg.kond} grøt.\textsc{ent.akkusativ} //
+\glft `Man ville ikke spist grøt.'//
+\endgl
+
+\xe
+
+### Habitiv – det å ha noe
+
+Skoltesamisk har ikke noe eget verb for _å ha_. I stedet brukes verbet _leeʹd_ 'å være' i en egen konstruksjon kalt habitiv. Den er bygd opp slik:
+
+\begin{itemize
+	\item Eieren / den som har noe bøyd i lokativ kasus.
+	\item _leeʹd_-verbet bøyd i tredje person entall eller flertall.
+	\item Det man har bøyd i nominativ kasus (grunnform).
+\end{itemize
+
+I slike setninger regnes det man har – ikke den som har noe – som det grammatiske subjektet, og derfor bøyes verbet i tall etter dette, for eksempel:
+
+\pex<withparts> %% "main" example needs a tag
+\a<first> %% First part with a tag
+\begingl %% Start glosses
+\gla Muʹst lij villj. //
+\glb jeg.\textsc{lokativ} være.\textsc{presens.ent.3p} bror.\textsc{ent.nominativ} //
+\glft `Jeg har en bror.'//
+\endgl
+
+\a<second> %% Second part
+\begingl %% Start glosses
+\gla Muʹst lie viillj. //
+\glb jeg.\textsc{lokativ} være.\textsc{presens.flt.3p} bror.\textsc{flt.nominativ} //
+\glft `Jeg har brødre.'//
+\endgl
+\xe
+
+Hvor mange som har noe påvirker derimot ikke verbbøyinga:
+\pex<withparts> %% "main" example needs a tag
+\a<first> %% First part with a tag
+\begingl %% Start glosses
+\gla Meeʹst lij villj. //
+\glb vi.\textsc{lokativ} være.\textsc{presens.ent.3p} bror.\textsc{ent.nominativ} //
+\glft `Vi har en bror.'//
+\endgl
+
+\a<second> %% Second part
+\begingl %% Start glosses
+\gla Meeʹst lie viillj. //
+\glb vi.\textsc{lokativ} være.\textsc{presens.flt.3p} bror.\textsc{flt.nominativ} //
+\glft `Vi har brødre.'//
+\endgl
+\xe
+
+\pex<withparts> %% "main" example needs a tag
+\a<first> %% First part with a tag
+\begingl %% Start glosses
+\gla Neezznest lij autt. //
+\glb kvinne.\textsc{ent.lokativ} være.\textsc{presens.ent.3p} bil.\textsc{ent.nominativ} //
+\glft `Kvinna har en bil.'//
+\endgl
+
+\a<second> %% Second part
+\begingl %% Start glosses
+\gla Neezznin lij autt. //
+\glb kvinne.\textsc{flt.lokativ} være.\textsc{presens.ent.3p} bil.\textsc{ent.nominativ} //
+\glft `Kvinnene har en bil.'//
+\endgl
+\xe
+
+_leeʹd_-verbet kan naturligvis også bøyes i andre tidsformer enn presens, slik som preteritum og perfektum.
+\pex<withparts> %% "main" example needs a tag
+\a<first> %% First part with a tag
+\begingl %% Start glosses
+\gla Meeʹst leäi villj. //
+\glb vi.\textsc{lokativ} være.\textsc{preteritum.ent.3p} bror.\textsc{ent.nominativ} //
+\glft `Vi hadde en bror.'//
+\endgl
+
+\a<second> %% Second part
+\begingl %% Start glosses
+\gla Meeʹst leʹjje viillj. //
+\glb vi.\textsc{lokativ} være.\textsc{preteritum.flt.3p} bror.\textsc{flt.nominativ} //
+\glft `Vi hadde brødre.'//
+\endgl
+\xe
+
+\pex<withparts> %% "main" example needs a tag
+\a<first> %% First part with a tag
+\begingl %% Start glosses
+\gla Neezznest lij leämmaž autt. //
+\glb kvinne.\textsc{ent.lokativ} være.\textsc{presens.ent.3p} være.\textsc{perf.part} bil.\textsc{ent.nominativ} //
+\glft `Kvinna har hatt en bil.'//
+\endgl
+
+\a<second> %% Second part
+\begingl %% Start glosses
+\gla Neezznin lie leämmaž aaut. //
+\glb kvinne.\textsc{flt.lokativ} være.\textsc{presens.ent.3p} være.\textsc{perf.part} bil.\textsc{flt.nominativ} //
+\glft `Kvinnene har hatt biler.'//
+\endgl
+\xe
+
+I nektende habitivssetninger er det nektingsverbet som skal samsvarsbøyes med det man har, mens _leeʹd_-verbet står i den faste nektingsforma _leäkku_.
+
+\pex<withparts> %% "main" example needs a tag
+\a<first> %% First part with a tag
+\begingl %% Start glosses
+\gla Muʹst ij leäkku villj. //
+\glb jeg.\textsc{lokativ} \textsc{neg.ent.3p} være.\textsc{konneg} bror.\textsc{ent.nominativ} //
+\glft `Jeg har ikke en bror.'//
+\endgl
+
+\a<second> %% Second part
+\begingl %% Start glosses
+\gla Muʹst jie leäkku viillj. //
+\glb jeg.\textsc{lokativ} \textsc{neg.flt.3p} være.\textsc{konneg} bror.\textsc{flt.nominativ} //
+\glft `Jeg har ikke brødre.'//
+\endgl
+\xe
+
+Man kan også her bruke de sammendradde formene av nektingsverb og _leeʹd_-verb.
+
+\pex<withparts> %% "main" example needs a tag
+\a<first> %% First part with a tag
+\begingl %% Start glosses
+\gla Muʹst iʹlla villj. //
+\glb jeg.\textsc{lokativ} være.\textsc{neg.presens.ent.3p} bror.\textsc{ent.nominativ} //
+\glft `Jeg har ikke en bror.'//
+\endgl
+
+\a<second> %% Second part
+\begingl %% Start glosses
+\gla Muʹst jeäʹla viillj. //
+\glb jeg.\textsc{lokativ} være.\textsc{neg.presens.flt.3p} bror.\textsc{flt.nominativ} //
+\glft `Jeg har ikke brødre.'//
+\endgl
+\xe
+
+### Å måtte
+
+[õlggâd, feʹrttjed, muʹst/mon]
+
+### Subjekt og objekt
+
+#### Reksjonsverb
+
